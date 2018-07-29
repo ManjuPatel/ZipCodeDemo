@@ -1,0 +1,4 @@
+zipcodeproject\zipcode\range\ZipCodeRange.class
+zipcodeproject\zipcode\ZipCodeApp.class
+zipcodeproject\zipcode\exception\ZipCodeException.class
+zipcodeproject\zipcode\util\ZipCodeUtils.class
